@@ -1,0 +1,5 @@
+.DS_Store
+secrets.json
+
+# dependencies
+/node_modules
